@@ -11,7 +11,7 @@ export default function About() {
       <div className="relative z-10 flex flex-col items-start justify-center w-full max-w-5xl px-6 mx-auto text-left md:px-4">
         <Fade duration={2200}>
           <h1 className="w-full mx-auto mb-3 text-3xl text-gray-100 md:text-6xl ">
-            Simplificamos <br /> la tecnología
+            Simplificamos <br /> la tecnologías
           </h1>
         </Fade>
         <Fade bottom delay={600} duration={1200}>

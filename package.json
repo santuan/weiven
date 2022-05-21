@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fontsource/archivo": "^4.4.5",
-    "lottie-web": "^5.7.11",
+    "lottie-web": "^5.9.3",
     "next": "11.0.0",
     "next-themes": "^0.0.14",
     "react": "17.0.2",

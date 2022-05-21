@@ -18,7 +18,7 @@
     "react-dom": "17.0.2",
     "react-headroom": "^3.1.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
-    "react-icons": "^4.2.0",
+    "react-icons": "^4.3.1",
     "framer-motion": "^4.1.17",
     "react-reveal": "^1.2.2"
   },
